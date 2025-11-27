@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{51d83bea-9a51-4db3-9047-a4437403b400}">
+		<property name="assetPath">
+			<value>Subway train sound effect.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>123.55918367346939</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{47d77f27-33d8-4e88-ad1d-47107ccb0df0}</destination>
+		</relationship>
+	</object>
+</objects>
