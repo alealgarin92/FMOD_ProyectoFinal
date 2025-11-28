@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{51d83bea-9a51-4db3-9047-a4437403b400}">
+		<property name="note" />
 		<property name="assetPath">
 			<value>Subway train sound effect.mp3</value>
 		</property>
