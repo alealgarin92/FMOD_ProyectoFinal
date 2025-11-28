@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{68f9d085-7272-401a-81de-7d385d11aef3}">
 		<property name="assetPath">
-			<value>big-thunder-clap-99753.mp3</value>
+			<value>Lluvia/BigThunder.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

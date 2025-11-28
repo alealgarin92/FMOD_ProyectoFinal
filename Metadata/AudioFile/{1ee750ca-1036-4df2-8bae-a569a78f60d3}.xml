@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{1ee750ca-1036-4df2-8bae-a569a78f60d3}">
 		<property name="assetPath">
-			<value>opening-a-subway-door-from-the-inside 1.wav</value>
+			<value>Efectos/PuertasSubte.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>24</value>

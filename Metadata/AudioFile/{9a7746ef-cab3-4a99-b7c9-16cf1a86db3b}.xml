@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{9a7746ef-cab3-4a99-b7c9-16cf1a86db3b}">
 		<property name="assetPath">
-			<value>Horror Ambiance - Ominous Background Music.mp3</value>
+			<value>Ambiente/HorrorAmbiance.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

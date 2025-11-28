@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{3bd91d4a-d99e-4597-a0ea-659b3844d34d}">
+		<property name="assetPath">
+			<value>Lluvia/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{47d77f27-33d8-4e88-ad1d-47107ccb0df0}</destination>
+		</relationship>
+	</object>
+</objects>

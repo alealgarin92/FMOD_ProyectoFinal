@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{a33984ab-b00f-4162-b98a-3b5ffae36e8c}">
 		<property name="assetPath">
-			<value>luces.mp3</value>
+			<value>Efectos/luces.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
